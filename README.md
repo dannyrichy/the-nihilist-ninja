@@ -5,6 +5,7 @@
 - You can find more about me [here](https://www.linkedin.com/in/daniel-richards-r-892820115/)
 
 # Course work
+  Transcript can be found [here](Grades.pdf)
 ---
 |**RELEVANT COURSE**|**GRADE**|
 |---|---|
