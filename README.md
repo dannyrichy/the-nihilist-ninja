@@ -5,6 +5,7 @@
 
 # Course work
 - Transcript can be found [here](Grades.pdf)
+
 |**RELEVANT COURSE**|**GRADE**|
 |---|---|
 |[DD2380](https://www.kth.se/student/kurser/kurs/DD2380?l=en) Artificial Intelligence|A|
