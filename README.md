@@ -1,5 +1,4 @@
 # About Me
----
 - Hej! I’m @the-nihilist-ninja aka Daniel Richards R. I graduated from [IIT Madras](https://www.iitm.ac.in/). I am currently pursuing Masters studies in Machine Learning at [KTH University](https://www.kth.se/), Sweden
 - I have had the pleasure to work in a plethora of fields, ranging from recoommender engines for banks to pharmaceutical companies
 - You can find more about me [here](https://www.linkedin.com/in/daniel-richards-r-892820115/)
