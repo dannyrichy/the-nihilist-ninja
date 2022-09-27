@@ -12,8 +12,8 @@
 |[DD2421](https://www.kth.se/student/kurser/kurs/DD2421?l=en) Machine Learning|A|
 |[DD2434](https://www.kth.se/student/kurser/kurs/DD2434?l=en) Advanced Machine Learning|A|
 |[DD2437](https://www.kth.se/student/kurser/kurs/DD2437?l=en) Artificial Neural Networks and Deep Architectures|A|
-|[DD2477](https://www.kth.se/student/kurser/kurs/DD2477?l=en) Search Engines and Information Retrieval Systems|A|
-|[SF2568](https://www.kth.se/student/kurser/kurs/DD2568?l=en) Parallel Computations for Large- Scale Problems|A|
+|[DD2477](https://www.kth.se/student/kurser/kurs/DD2477?l=en) Search Engines and Information Retrieval Systems|B|
+|[SF2568](https://www.kth.se/student/kurser/kurs/DD2568?l=en) Parallel Computations for Large- Scale Problems|B|
 |[DD2424](https://www.kth.se/student/kurser/kurs/DD2424?l=en) Deep Learning in Data Science|A|
 |[DT2470](https://www.kth.se/student/kurser/kurs/DD2470?l=en) Music Informatics|\*|
 |[DT2412](https://www.kth.se/student/kurser/kurs/DD2412?l=en) Deep Learning, Advanced Course|\*|
