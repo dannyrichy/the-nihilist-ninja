@@ -1,7 +1,5 @@
 # About Me
 - Hej! I’m @the-nihilist-ninja aka Daniel Richards R. I graduated from [IIT Madras](https://www.iitm.ac.in/). I am currently pursuing Masters studies in Machine Learning at [KTH University](https://www.kth.se/), Sweden
-- I have had the pleasure to work in a plethora of fields, ranging from recoommender engines for banks to pharmaceutical companies
-- You can find more about me [here](https://www.linkedin.com/in/daniel-richards-r-892820115/)
 
 # Course work
 |**Course code**|**Name**|
@@ -16,3 +14,4 @@
 |[DT2470](https://www.kth.se/student/kurser/kurs/DD2470?l=en) |Music Informatics|
 |[DT2412](https://www.kth.se/student/kurser/kurs/DD2412?l=en) |Deep Learning, Advanced Course|
 |[DT2430](https://www.kth.se/student/kurser/kurs/DD2430?l=en) |Project Course in Data Science|
+|[SF2525](https://www.kth.se/student/kurser/kurs/SF2525?l=en) |Computational Methods for Stochastic Differential Equations and Machine Learning|
