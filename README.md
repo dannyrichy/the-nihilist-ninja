@@ -14,8 +14,7 @@
 
 ```                                                                                                                               
                                                                                                                                 
-                                                                                                                                
-Here's a [playlist](https://open.spotify.com/playlist/7c6bvGpz7go53lyvRLlgvt?si=aa235c938ddc4ad7) while you skim through my repo: 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=if537cs8ji6tkbve0c3vub9sv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=if537cs8ji6tkbve0c3vub9sv&redirect=true)                                                                                                                              
 
 # Course work
 |**Course code**|**Name**|
