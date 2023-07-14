@@ -1,5 +1,11 @@
-# About Me
-- Hej! I’m @the-nihilist-ninja aka Daniel Richards R. I graduated from [IIT Madras](https://www.iitm.ac.in/). I am currently pursuing Masters studies in Machine Learning at [KTH University](https://www.kth.se/), Sweden
+________                .__       .__    __________.__       .__                     .___      
+\______ \ _____    ____ |__| ____ |  |   \______   \__| ____ |  |__ _____ _______  __| _/______
+ |    |  \\__  \  /    \|  |/ __ \|  |    |       _/  |/ ___\|  |  \\__  \\_  __ \/ __ |/  ___/
+ |    `   \/ __ \|   |  \  \  ___/|  |__  |    |   \  \  \___|   Y  \/ __ \|  | \/ /_/ |\___ \ 
+/_______  (____  /___|  /__|\___  >____/  |____|_  /__|\___  >___|  (____  /__|  \____ /____  >
+        \/     \/     \/        \/               \/        \/     \/     \/           \/    \/ 
+
+Here's a [playlist](https://open.spotify.com/playlist/7c6bvGpz7go53lyvRLlgvt?si=aa235c938ddc4ad7) while you skim through my repo: 
 
 # Course work
 |**Course code**|**Name**|
