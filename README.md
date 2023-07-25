@@ -1,4 +1,4 @@
-# About the self
+# self.me
 ```
 &/&/%/#(/#*%*%*#*(**/*/,/,/*********/*/*(*///(/#/%/%/%(%%#&#&#@%@%&&&&&@&@&@&@&@
 &/&/%/#(/#*%*%*#*(**/*/*/,/*********/*(*/*(//(/#/%/%/%(%##%#&#&#@%&&&&&@&@&@&@&@
@@ -32,9 +32,7 @@
 @@@@@@@@@@&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&@@@&&&@*,*,,
 &@@@&&@@@@@@@@@@@@@@@@@@@&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&%,,*
 @@@&(#,@@@@@@@@@@@@@&&&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@((
-```                                                                                                                               
-                                                                                                                                
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=if537cs8ji6tkbve0c3vub9sv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=if537cs8ji6tkbve0c3vub9sv&redirect=true)                                                                                                                              
+```                                                                                                                                                                                                                                                         
 
 # Course work
 |**Course code**|**Name**|
